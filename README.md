@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <p align="center">
-  <img src="Screenshot_25-7-2024_145152_192.168.2.17" width=800><br/>
-  <i>Japanese (Dragon Ball)</i>
+  <img src="Screenshot_25-7-2024_145152_192.168.2.17.jpeg" width=800><br/>
+  <i>Index</i>
 </p>
