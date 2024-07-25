@@ -1,0 +1,1 @@
+get https://api.themoviedb.org/3/discover/movie?api_key=fe177cceaffa14f4d09fe68a3d8d6526&with_genres=35
